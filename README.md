@@ -12,6 +12,8 @@
      
  # The data for this experiment can be located here:            https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
  
+ After downloading this zip, your working directory should be set to file "getdata_projectfiles_UCI HAR Dataset"
+ 
  # More description about the experiment can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
